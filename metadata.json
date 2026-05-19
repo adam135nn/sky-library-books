@@ -25,6 +25,18 @@
       "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/tarikh_boni_kaab_va_majeraye_sheikh_khazal_alireza_sedavi_1.pdf",
       "isFeatured": true,
       "isAudio": false
+    },{
+      "id": "ghabail_va_ashayer_arab_khuzestan",
+      "title": "قبایل و عشایر عرب خوزستان",
+      "author": "نویسنده نامشخص",
+      "rating": 4.8,
+      "category": "الأحواز",
+      "pages": 370,
+      "description": "قبایل و عشایر عرب خوزستان",
+      "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/ghabail_va_ashayer_arab_khuzestan.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/ghabail_va_ashayer_arab_khuzestan.pdf",
+      "isFeatured": true,
+      "isAudio": false
     }
   ]
 }
