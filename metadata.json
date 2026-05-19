@@ -12,6 +12,21 @@
       "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/mamaleke_mahruseh.pdf",
       "isFeatured": true,
       "isAudio": false
+    },
+    {
+  "books": [
+    {
+      "id": "tarikh_boni_kaab_va_majeraye_sheikh_khazal_alireza_sedavi_1",
+      "title": "تاریخ بنی کعب و ماجرای شیخ خزعل",
+      "author": "علیرضا صداوی",
+      "rating": 4.8,
+      "category": "الأحواز",
+      "pages": 220,
+      "description": "تاریخ بنی کعب و ماجرای شیخ خزعل",
+      "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/tarikh_boni_kaab_va_majeraye_sheikh_khazal_alireza_sedavi_1.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/tarikh_boni_kaab_va_majeraye_sheikh_khazal_alireza_sedavi_1.pdf",
+      "isFeatured": true,
+      "isAudio": false
     }
   ]
 }
