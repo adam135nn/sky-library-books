@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": "b1",
+      "title": "ممالک محروسه مملکت عربستان و فرجام دولت ملت در ایران",
+      "author": "یوسف عزیزی بني طرف",
+      "rating": 4.8,
+      "category": "الأحواز",
+      "pages": 370,
+      "description": "ممالک محروسه مملکت عربستان و فرجام دولت ملت در ایران",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/sky-library-books/main/covers/b1.jpg",
+      "fileUrl": "https://github.com/adam135nn/sky-library-books/releases/download/v1.0.0/Mamaleke.Mahruseh.pdf",
+      "isFeatured": true
+    },
+    
+  ]
+}
