@@ -25,10 +25,10 @@
       "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/tarikh_boni_kaab_va_majeraye_sheikh_khazal_alireza_sedavi_1.pdf",
       "isFeatured": true,
       "isAudio": false
-    },{
+     },{
       "id": "ghabail_va_ashayer_arab_khuzestan",
       "title": "قبایل و عشایر عرب خوزستان",
-      "author": "**",
+      "author": null,
       "rating": 4.8,
       "category": "الأحواز",
       "pages": 370,
@@ -38,17 +38,17 @@
       "isFeatured": true,
       "isAudio": false
     },{
-      "id": "The-Shaikh-who-lost-his-Shaikhdom",
-      "title": "الشيخ الذي فقد مشيخته",
-      "author": "لوي أولداي",
-      "rating": 4.8,
-      "category": "الأحواز",
-      "pages": 10,
-      "description": "سيرة الشيخ خزعل بن جابر بن مرداو الكعبي (١٨٦١-١٩٣٦)، أمير المحمرة وشيخ قبيلة بني كعب.",
-      "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/The-Shaikh-who-lost-his-Shaikhdom.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/The-Shaikh-who-lost-his-Shaikhdom.pdf",
-      "isFeatured": true,
-      "isAudio": false
+    "id": "The-Shaikh-who-lost-his-Shaikhdom",
+    "title": "الشيخ الذي فقد مشيخته",
+    "author": "لوي أولداي",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 10,
+    "description": "سيرة الشيخ خزعل بن جابر بن مرداو الكعبي (١٨٦١-١٩٣٦)، أمير المحمرة وشيخ قبيلة بني كعب.",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/The-Shaikh-who-lost-his-Shaikhdom.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/The-Shaikh-who-lost-his-Shaikhdom.pdf",
+    "isFeatured": true,
+    "isAudio": false
     },
     {
     "id": "tarikh_alahwaz_almumazzaq",
@@ -78,12 +78,12 @@
     },
     {
     "id": "alahwaz_arabistan_fi_adwariha_altarikhia",
-    "title": "الأحواز "عربستان" في أدوارها التاريخية",
+    "title": "الأحواز (عربستان) في أدوارها التاريخية",
     "author": "علي نعمه الحلو",
     "rating": 4.8,
     "category": "الأحواز",
     "pages": 307,
-    "description": "الأحواز "عربستان" في أدوارها التاريخية",
+    "description": "الأحواز (عربستان) في أدوارها التاريخية",
     "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/alahwaz_arabistan_fi_adwariha_altarikhia.jpg",
     "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/alahwaz_arabistan_fi_adwariha_altarikhia.pdf",
     "isFeatured": true,
