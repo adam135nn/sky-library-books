@@ -49,6 +49,71 @@
       "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/The-Shaikh-who-lost-his-Shaikhdom.pdf",
       "isFeatured": true,
       "isAudio": false
+    },
+    {
+    "id": "tarikh_alahwaz_almumazzaq",
+    "title": "تاريخ الأحواز الممزق بفعل أربع جهات وضرورة التحرر منها",
+    "author": "محمود عبد الله",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 275,
+    "description": "تاريخ الأحواز الممزق بفعل أربع جهات وضرورة التحرر منها",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/tarikh_alahwaz_almumazzaq.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/tarikh_alahwaz_almumazzaq.pdf",
+    "isFeatured": true,
+    "isAudio": false
+    },
+    {
+    "id": "alahwaz_qabailuha_wa_asaruha",
+    "title": "الأحواز قبائلها و أسرها نسخة مصورة",
+    "author": "علي نعمه الحلو",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 208,
+    "description": "الأحواز قبائلها و أسرها نسخة مصورة",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/alahwaz_qabailuha_wa_asaruha.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/alahwaz_qabailuha_wa_asaruha.pdf",
+    "isFeatured": true,
+    "isAudio": false
+    },
+    {
+    "id": "alahwaz_arabistan_fi_adwariha_altarikhia",
+    "title": "الأحواز "عربستان" في أدوارها التاريخية",
+    "author": "علي نعمه الحلو",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 307,
+    "description": "الأحواز "عربستان" في أدوارها التاريخية",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/alahwaz_arabistan_fi_adwariha_altarikhia.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/alahwaz_arabistan_fi_adwariha_altarikhia.pdf",
+    "isFeatured": true,
+    "isAudio": false
+    },
+    {
+    "id": "alahwaz_qabailuha_ansabuha_umarauha_shuyukhuha",
+    "title": "الأحواز قبائلها، أنسابها، أمراؤها، شيوخها",
+    "author": "جابر جليل المانع",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 282,
+    "description": "الأحواز قبائلها، أنسابها، أمراؤها، شيوخها",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/alahwaz_qabailuha_ansabuha_umarauha_shuyukhuha.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/alahwaz_qabailuha_ansabuha_umarauha_shuyukhuha.pdf",
+    "isFeatured": true,
+    "isAudio": false
+    },
+    {
+    "id": "almuhammara_madina_wa_imara_arabia",
+    "title": "المحمرة مدينة و إمارة عربية",
+    "author": "علي نعمة الحلو",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 163,
+    "description": "المحمرة مدينة و إمارة عربية",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/almuhammara_madina_wa_imara_arabia.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/almuhammara_madina_wa_imara_arabia.pdf",
+    "isFeatured": true,
+    "isAudio": false
     }
   ]
 }
