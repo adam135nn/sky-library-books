@@ -244,6 +244,71 @@
       "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/nahnu_wa_al_arab.pdf",
       "isFeatured": true,
       "isAudio": false
-    }
+    },
+      {
+    "id": "nasim_karun_1",
+    "title": "نسیم کارون 1",
+    "author": "یوسف عزیزی بنی طرف",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 240,
+    "description": "نسیم کارون 1",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/nasim_karun_1.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/nasim_karun_1.pdf",
+    "isFeatured": true,
+    "isAudio": false
+  },
+  {
+    "id": "nasim_karun_2",
+    "title": "نسیم کارون 2",
+    "author": "یوسف عزیزی بنی طرف",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 198,
+    "description": "نسیم کارون 2",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/nasim_karun_2.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/nasim_karun_2.pdf",
+    "isFeatured": true,
+    "isAudio": false
+  },
+  {
+    "id": "afsanehaye_mardom_arab_khuzestan",
+    "title": "افسانه های مردم عرب خوزستان",
+    "author": "یوسف عزیزی بنی طرف - سلیمه فتوحی",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 142,
+    "description": "افسانه های مردم عرب خوزستان",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/afsanehaye_mardom_arab_khuzestan.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/afsanehaye_mardom_arab_khuzestan.pdf",
+    "isFeatured": true,
+    "isAudio": false
+  },
+  {
+    "id": "iran_al_haera_bayn_al_shumuliyya_wa_al_dimuqratiyya",
+    "title": "ایران الحائرة بین الشمولیة و الدیموقراطیة",
+    "author": "یوسف عزیزی بنی طرف",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 192,
+    "description": "ایران الحائرة بین الشمولیة و الدیموقراطیة",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/iran_al_haera_bayn_al_shumuliyya_wa_al_dimuqratiyya.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/iran_al_haera_bayn_al_shumuliyya_wa_al_dimuqratiyya.pdf",
+    "isFeatured": true,
+    "isAudio": false
+  },
+  {
+    "id": "arabistan_wa_masir_al_dawla_al_umma_fi_iran",
+    "title": "عربستان و مصیر الدولة- الأمة فی ایران",
+    "author": "یوسف عزیزی بنی طرف",
+    "rating": 4.8,
+    "category": "الأحواز",
+    "pages": 430,
+    "description": "عربستان و مصیر الدولة- الأمة فی ایران",
+    "coverUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/covers/arabistan_wa_masir_al_dawla_al_umma_fi_iran.jpg",
+    "fileUrl": "https://raw.githubusercontent.com/adam135nn/sky-library-books/main/books/arabistan_wa_masir_al_dawla_al_umma_fi_iran.pdf",
+    "isFeatured": true,
+    "isAudio": false
+  }
   ]
 }
